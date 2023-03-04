@@ -1,0 +1,24 @@
+.topnav{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    justify-content:space-between;
+    padding: 0px 200px 0px 200px;
+
+}
+
+.logo{
+    
+
+}
+.topmid{
+    display: flex;
+    
+    
+
+}
+.topmid>a{
+   
+    text-decoration: none;
+}
