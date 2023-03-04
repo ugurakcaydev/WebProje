@@ -6,13 +6,14 @@
     overflow: hidden;
 }
 
-html {
-    
-    background: url("/19TA8L0-png-wallpapers.jpg")round;
-    z-index: -100;
+img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
 }
 
 .topnav {
+    position: relative;
     width: 100%;
     display: flex;
     justify-content: center;
