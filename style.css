@@ -7,7 +7,8 @@
 }
 
 html {
-    background: url("/19TA8L0-png-wallpapers.jpg")no-repeat;
+    
+    background: url("/19TA8L0-png-wallpapers.jpg")round;
     z-index: -100;
 }
 
